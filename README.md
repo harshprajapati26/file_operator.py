@@ -125,7 +125,7 @@ The journal text file is created when the program needs it, so it may not appear
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** HARSH PRAJAPATI
 
 ## 📄 License
 
